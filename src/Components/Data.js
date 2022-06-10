@@ -41,7 +41,7 @@ const Items = [
     imgSrc:
       "https://github.com/rolandoto/Mader/blob/main/2c9f9610-f6b2-4305-aac4-45191155d710-removebg-preview.png?raw=true",
     name: "Grifería California",
-    ratings: 5,
+    ratings: 3,
     price: "27.692",
   },
   {
